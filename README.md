@@ -12,9 +12,8 @@ This project is a Streamlit application that uses Google Generative AI to analyz
 ## Video Demo (Click the iameg to play the video)
 
 
-
-[![Watch the video](https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/Thumbnail_(Project_Demo).png)(https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/demo.gif)
-<!--(https://www.youtube.com/watch?v=snO5P9_n16E)-->
+![Demo](https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/demo.gif)
+<!--![Watch the video](https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/Thumbnail_(Project_Demo).png)(https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/demo.gif)(https://www.youtube.com/watch?v=snO5P9_n16E)-->
 
 ## Requirements
 
