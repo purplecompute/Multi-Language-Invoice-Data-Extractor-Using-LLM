@@ -74,16 +74,12 @@ This project is a Streamlit application that uses Google Generative AI to analyz
 - Use Streamlit for the web interface
 - Upload and display images of invoices
 - Use Google Generative AI to analyze the uploaded invoice and respond to user prompts
-<!-->
-## Thumbnail
 
-![Thumbnail](Thumbnail.png)
--->
-## Video Demo
+## Video Demo (Click the iameg to play the video)
 
 
 
-[![Watch the video](https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Thumbnail_(Project_Demo).png)](<iframe width="560" height="315" src="https://www.youtube.com/embed/snO5P9_n16E?si=kWLVYftPuTqdPOYV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+[![Watch the video](https://raw.githubusercontent.com/purplecompute/Media/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Thumbnail_(Project_Demo).png)](https://www.youtube.com/watch?v=snO5P9_n16E)
 
 ## Requirements
 
