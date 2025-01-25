@@ -49,12 +49,34 @@ You are an expert in understanding invoices. We will upload an image as invoices
 
 # If submit button is clicked
 if submit:
-    image_data = input_image_details(uploaded_file)
-    response = get_gemini_response(input_prompt, image_data, input)   
-    st.subheader("The Response is")
-    st.write(response)
+    if uploaded_file is None:
+        st.error("Please upload an image of the Invoice")
+        st.stop()
+    else:
+        image_data = input_image_details(uploaded_file)
+        response = get_gemini_response(input_prompt, image_data, input)   
+        st.subheader("The Response is")
+        st.write(response)
 
 
-
+# Add developer information at the bottom
+st.markdown("""
+    <div style='text-align: center; margin-top: 50px;'>
+        <p>
+            <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/sparkling_ai.png' alt='Sparkling AI logo' width='20' style='vertical-align: middle;' />
+            Developed By: Mayur Satao
+        </p>
+        <p>
+            <a href='https://github.com/purplecompute' target='_blank'>
+                <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/github.png' alt='GitHub logo' width='20' style='vertical-align: middle;' />
+                Github
+            </a> |
+            <a href='https://www.linkedin.com/in/mayur-satao' target='_blank'>
+                <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/linkedin.png' alt='LinkedIn logo' width='20' style='vertical-align: middle;' />
+                LinkedIn
+            </a>
+        </p>
+    </div>
+""", unsafe_allow_html=True)
 
 
