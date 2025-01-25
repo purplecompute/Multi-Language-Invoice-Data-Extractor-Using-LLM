@@ -63,15 +63,15 @@ if submit:
 st.markdown("""
     <div style='text-align: center; margin-top: 50px;'>
         <p>
-            <img src='https://raw.githubusercontent.com/purplecompute/Media/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/sparkling_ai_icon.png' alt='Sparkling AI logo' width='17' style='vertical-align: middle;' />
+            <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/sparkling_ai_icon.png' alt='Sparkling AI logo' width='17' style='vertical-align: middle;' />
             Developed By: Mayur Satao
         </p>
         <p>
             <a href='https://github.com/purplecompute' target='_blank'>
-                <img src='https://raw.githubusercontent.com/purplecompute/Media/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/github_icon.png' alt='GitHub logo' width='30' style='vertical-align: middle;' />
+                <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/github_icon.png' alt='GitHub logo' width='30' style='vertical-align: middle;' />
             </a>
             <a href='https://www.linkedin.com/in/mayur-satao' target='_blank'>
-                <img src='https://raw.githubusercontent.com/purplecompute/Media/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/linkedin_icon.png' alt='LinkedIn logo' width='30' style='vertical-align: middle;' />
+                <img src='https://raw.githubusercontent.com/purplecompute/Multi-Language-Invoice-Data-Extractor-Using-LLM/master/Media/linkedin_icon.png' alt='LinkedIn logo' width='30' style='vertical-align: middle;' />
             </a>
         </p>
     </div>
